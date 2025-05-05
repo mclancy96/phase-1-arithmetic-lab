@@ -9,4 +9,4 @@ const random = Math.ceil(Math.random() * 100)
 
 const mod = 14 % 5;
 
-// const max
+const max = Math.max(2, 20, 5, 1, -6, -Infinity)
