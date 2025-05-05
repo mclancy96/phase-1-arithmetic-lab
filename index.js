@@ -3,7 +3,7 @@ const num2 = 1;
 
 const multiply = num1 * num2;
 
-// const random 
+const random = Math.ceil(Math.random() * 100)
 
 // const mod 
 
